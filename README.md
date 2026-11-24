@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225230249
+# Name: SANTHOSHKUMAR J
+# Date: 24.11.2026
 
 
 # AIM:
@@ -41,6 +41,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="1117" height="886" alt="hospital management" src="https://github.com/user-attachments/assets/442c99ea-4fc5-4267-823f-936d5077097e" />
 
 
 
@@ -60,6 +61,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="930" height="537" alt="image" src="https://github.com/user-attachments/assets/6e3022d4-f335-42aa-af2e-dc7764f3bb27" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -69,6 +71,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="872" height="512" alt="image" src="https://github.com/user-attachments/assets/c157c46a-4d02-4662-bccb-56e7335caebd" />
 
 
 # PACKAGE DIAGRAM:
@@ -81,6 +84,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1112" height="882" alt="hospital management package diagram" src="https://github.com/user-attachments/assets/c237e668-8956-4f62-b044-e6a4dd8d63af" />
 
 
 
@@ -98,6 +102,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="1117" height="892" alt="Hospital activity diagram" src="https://github.com/user-attachments/assets/fa965e48-90d3-4a76-b53e-9170868b68d7" />
 
 
 
@@ -120,6 +125,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="1120" height="888" alt="hospital sequence diagram" src="https://github.com/user-attachments/assets/ba7394f2-3dc5-4cf6-9b3b-ed7e1698bc72" />
 
 
 
